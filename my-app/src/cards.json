@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Mario",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/MarioNSMBUDeluxe.png/220px-MarioNSMBUDeluxe.png"
+    },
+    {
+      "id": 2,
+      "name": "Luigi",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/LuigiNSMBW.png/220px-LuigiNSMBW.png"
+    },
+    {
+      "id": 3,
+      "name": "Donkey Kong",
+      "image": "https://www.mariowiki.com/images/thumb/b/b5/SuperMarioParty_DonkeyKong.png/1200px-SuperMarioParty_DonkeyKong.png"
+    },
+    {
+      "id": 4,
+      "name": "Yoshi",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/YoshiMarioParty10.png/220px-YoshiMarioParty10.png"
+    },
+    {
+      "id": 5,
+      "name": "Bowser",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/BowserNSMBUD.png/220px-BowserNSMBUD.png"
+    },
+    {
+      "id": 6,
+      "name": "Peach",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/8/83/Peach_MP100.png/revision/latest?cb=20170918143319&path-prefix=en"
+    },
+    {
+      "id": 7,
+      "name": "Jiggly Puff",
+      "image": "https://www.ssbwiki.com/images/thumb/6/6a/Jigglypuff_SSBU.png/250px-Jigglypuff_SSBU.png"
+    },
+    {
+      "id": 8,
+      "name": "Ghost",
+      "image": "https://vignette.wikia.nocookie.net/mario/images/a/a1/Boo_CTTT.png/revision/latest?cb=20190529213918"
+    },
+    {
+      "id": 9,
+      "name": "Toad",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Toad_3D_Land.png/220px-Toad_3D_Land.png"
+    },
+    {
+      "id": 10,
+      "name": "Wario",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Wario.png/250px-Wario.png"
+    },
+    {
+      "id": 11,
+      "name": "Birdo",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Birdo-MP9.png/220px-Birdo-MP9.png"
+    },
+    {
+      "id": 12,
+      "name": "Toadette",
+      "image": "https://vignette.wikia.nocookie.net/diceblock/images/f/f1/Toadette_-_Mario_Party_10.png/revision/latest/scale-to-width-down/350?cb=20160718000549"
+    }
+  ]
