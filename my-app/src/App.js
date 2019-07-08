@@ -46,7 +46,7 @@ class App extends Component {
         this.setState({topScore: this.state.score + 1})
 
       } 
-      //if the score is equal to 11 update state, set score back to zero, empty array, import cards
+      //if the score is equal to 11 update state, set score back to zero, empty array, import cards and show text in footer
       if (this.state.score === 11) {
         this.setState({footerText: 'You Won! Play again?'})
         this.setState({score: 0, clickedCards: [], cards: cards})

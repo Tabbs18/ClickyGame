@@ -2,7 +2,7 @@ import React from 'react';
 
 function Footer(props) {
   return (
-    <footer className="page-footer">
+    <footer style={{backgroundColor: "blue"}} className="page-footer">
       <div className="container">
         <div className="row">
           <h5 className="center white-text footer-update">{props.text}</h5>

@@ -8,6 +8,7 @@ function handleClick(props) {
 }
 
 //when the card is clicked handle click seperatly
+//props passed in from cards.json
 function ClickCard(props) {
 	return (
 		<div className="card img-container" onClick={() => handleClick(props)}>

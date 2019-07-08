@@ -5,6 +5,16 @@ body {
     position: relative;
     background-color: black;
 }
+
+button {
+    background-color: red;
+    width: 15%;
+    color: rgb(12, 12, 85);
+    height: 80%;
+    padding: 5px;
+    text-align: center;
+    margin-top: 5px;
+}
 .page-footer {
     padding: 40px;
 }
